@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Guilherme ferreira
-- 👀 I’m interested in ...
-- Brasil Born in São Paulo Brasil
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Desenvolvedor 
+- living in São Paulo, Brasil
+
 
 <!---
 Guilhermeferreir/Guilhermeferreir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
