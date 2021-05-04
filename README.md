@@ -1,6 +1,6 @@
 - Hi, I’m Guilherme Ferreira 
 - 👨‍💻 Desenvolvedor 
-- 🇧🇷 living in São Paulo, Brasil
+- 🇧🇷 São Paulo, Brasil
 
 
 
