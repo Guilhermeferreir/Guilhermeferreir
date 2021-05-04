@@ -1,4 +1,4 @@
-- Hi, I’m Guilherme Ferreira 
+- Hi, I’m Guilherme Ferreira! ☮️
 - 👨‍💻 Desenvolvedor 
 - 🇧🇷 São Paulo, Brasil
 
