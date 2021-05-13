@@ -1,5 +1,5 @@
 - Hi, I’m Guilherme Ferreira! 
-- 👨‍💻 Desenvolvedor 
+
 
 
 
