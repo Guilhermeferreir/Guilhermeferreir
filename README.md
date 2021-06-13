@@ -10,6 +10,6 @@
 </p>
 
 <p align="left">
-  💼 Estudando: <strong>C#, ReactJs, Kotlin.</strong>
+  💼 Estudando: <strong>C#, ReactJs, Node.js, Kotlin.</strong>
 </p>
 
