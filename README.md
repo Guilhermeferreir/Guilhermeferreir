@@ -6,10 +6,8 @@
 </p>
 
 <p align="left">
-  🦄 Tecnologias: <strong>Java, Javascript, HTML, CSS, SQL.</strong>
+  💼  Tecnologias: <strong>Java, Javascript, HTML, CSS, SQL.</strong>
 </p>
 
-<p align="left">
-  💼 Estudando: <strong>C#, ReactJs, Node.js, Kotlin.</strong>
-</p>
+
 
