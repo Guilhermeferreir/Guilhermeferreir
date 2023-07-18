@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Guilhermeferreir" alt="Guilhermeferreir" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/vjunior1981?logo=twitter&style=for-the-badge" alt="vjunior1981" /></a> </p>
-
 - 🌱 I’m currently learning **Terraform, Kubernetes, DevOps, Agile, CI, CD, Python, AWS, GCP, OCI etc...**
 
 - 🤝 I’m looking for help with **Development. Need to improve my skills.**
