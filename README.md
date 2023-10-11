@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Development. Need to improve my skills.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Guilhermeferreir](https://github.com/Guilhermeferreir?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Guilhermeferreir?tab=repositories](https://github.com/Guilhermeferreir?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
